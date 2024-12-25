@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DAnaylxt
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web Developers
+- 👋 Hi, I’m Bin_DAnaylxt
+- 👀 I’m Front_End Developer Forex Trader and Smart Contract Developer
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on Web2 and Web3 Developers
 - 📫 How to reach me Whatsapp: 08030933819 Facebook: BinYoonusDAnalyxt
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
